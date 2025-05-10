@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @itsmonisha
 - 👀 I’m interested in webdevelopment and design
-- 🌱 I’m currently learning artificial intelligence 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her
